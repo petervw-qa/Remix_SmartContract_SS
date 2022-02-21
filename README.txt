@@ -1,4 +1,4 @@
-REMIX EXAMPLE PROJECT
+Remix Simple Storage Smart Contract - Tested on the Rinkby Ethereum Network
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
